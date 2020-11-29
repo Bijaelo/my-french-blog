@@ -13,10 +13,8 @@ thumbnailImagePosition: left
 title: My first post!
 slug: 'introductions-french-blog'
 ---
-Hello and welcome to my french blog. Bonjour!
-
-<!--more-->
 # Welcome to my french blog!
+<!--more-->
 Hello and welcome to my french blog. Bonjour!
 
 This blog is one of my own creation, and it is actually just one for me. If you have found your way to this blog, either you are overly into me (please seek help. I am already beyond rescue!), or maybe you're someone who's interested in reading blog from native french people. Or alternatively you're looking for someone who is slowly stumbling through the process of self learning French, and you seek inspiration in your own process.
