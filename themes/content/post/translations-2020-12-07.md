@@ -20,12 +20,12 @@ Welcome once again to my rambling french post. Today I finished lesson.. 5 or so
 
 So here is my first few sentences and my translation for them. 
 
-{.table}
-| English version | My french translation | My errors |
-|:---------------:|:---------------------:|:---------:|
-| Tuesday I am using my hand to work | Mardi J'utilise moi main travail | *moi* should've been *ma*, *travail* needs an ending *ler* because it is... second person present? "I am using it to work". I think that is first person present. I also forgot the work *pour* (to) |
-| Sunday it was cold | Dimanche il fut froid | apparently "étre" (to be) in past tense is not the correct word. I should've used the word *faire* "to do". So the sunday is doing cold in past tense. *Dimanche il faisait froid*. I honestly am not sure why |
-| We are called Nanna and Oliver | Nous nous appelons Nanna et Oliver |  I was right! Omg! I did one right! |
+{{.table}}
+| English version                    | My french translation             | My errors                                                                                                                                                                                                      |
+|------------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tuesday I am using my hand to work | Mardi J'utilise moi main travail  | *moi* should've been *ma*, *travail* needs an ending *ler* because it.. is second person present? "I am using it to work". I think that its first person present. I also forgot the word *pour* (to)           |
+| Sunday it was cold                 | Dimanche il fut froid             | Apparently *étre* (to be) i npast tense is not the correct word. I should've used the word *faire* (to do). So the sunday is doing cold in past tense. *Dimance il faisait froid*. I honestly am not sure why. |
+| We are called Nanna and Oliver     | Nous nous appelonsNanna et Oliver | I was right! Omg! I did one right!                                                                                                                                                                             |
 
 So this is just the start of course, and more sentences will be added..  
 For my writing I am using the following ressources (they are my life savers... at least right now):
