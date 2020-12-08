@@ -19,6 +19,7 @@ Welcome once again to my rambling french post. Today I finished lesson.. 5 or so
 <!-- more -->
 
 So here is my first few sentences and my translation for them. 
+
 {.table}
 | English version | My french translation | My errors |
 |:---------------:|:---------------------:|:---------:|
